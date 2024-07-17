@@ -15,7 +15,6 @@ This Python program detects lanes in an image using computer vision techniques. 
 - Drawing lane lines on the original image
 
 ## Dependencies
-- Python 3.x
 - NumPy
 - Matplotlib
 - OpenCV
